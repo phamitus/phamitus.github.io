@@ -12,7 +12,7 @@ print FWRITE "<head>\n";
 print FWRITE "  <link rel=\"stylesheet\" href=\"styles.css\">\n";
 print FWRITE "</head>\n";
 print FWRITE "<body>\n";
-print FWRITE "<h2>List of currently open job positions at <a href=\"www.ptc.com\" target=\"_blank\">PTC Inc.</a></h2>\n";
+print FWRITE "<h2>List of currently open job positions at <a href=\"https:\/\/www.ptc.com\/\" target=\"_blank\">PTC Inc.</a></h2>\n";
 print FWRITE "<table>\n";
 print FWRITE "  <tr>\n";
 print FWRITE "    <th>Job Title (click to apply)</th>\n";
