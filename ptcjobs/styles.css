@@ -1,0 +1,33 @@
+table {
+  font-family: consolas, calibri, arial, sans-serif;
+  /*border-collapse: collapse;*/
+  width: 50%;
+}
+
+h1,h2,h3,h4 {
+  font-family: consolas, calibri, arial, sans-serif;
+}	
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  /*color: green;*/
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  /*color: black;*/
+  text-decoration: underline;
+}

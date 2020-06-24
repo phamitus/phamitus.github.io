@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>List of currently open job positions at PTC Inc. </h1>
+<table>
+  <tr>
+    <th>Job Title (click to apply)</th>
+    <th>Experience</th>
+    <th>Job Location</th>
+  </tr>
+  <tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=020620004664&xid=28644544b8yuhN
+">Servicenow HRSD &ITSM -Solution Architect</a></td>
+<td>5-10 yrs</td>
+<td>Pune</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=030620006768&xid=28644544b8yuhN
+">Technical Support Engineer - CAD (night Shift)</a></td>
+<td>2-6 yrs</td>
+<td>Pune</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=090620001586&xid=28644544b8yuhN
+">Product Specialist ( Technical Support Engineer)</a></td>
+<td>2-5 yrs</td>
+<td>Gurgaon</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=110620001024&xid=28644544b8yuhN
+">Core Java Product Developer</a></td>
+<td>3-6 yrs</td>
+<td>Pune</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=120620002440&xid=28644544b8yuhN
+">Product Specialist</a></td>
+<td>3-7 yrs</td>
+<td>Pune</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=270520001394&xid=28644544b8yuhN
+">Software Analyst - Java</a></td>
+<td>1-3 yrs</td>
+<td>Pune</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=270520005332&xid=28644544b8yuhN
+">Sr. Java Developer</a></td>
+<td>3-5 yrs</td>
+<td>Pune</td>
+</tr>
+<tr>
+<td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=250520001473&xid=28644544b8yuhN
+">Technical Lead - Salesforce</a></td>
+<td>4-6 yrs</td>
+<td>Pune</td>
+</tr>
+</table>
+</body>
+</html>
