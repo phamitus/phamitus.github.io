@@ -14,6 +14,7 @@ print FWRITE "  <title>List of currently open job positions at PTC Inc.</title>"
 print FWRITE "</head>\n";
 print FWRITE "<body>\n";
 print FWRITE "<h2>List of currently open job positions at <a href=\"https:\/\/www.ptc.com\/\" target=\"_blank\">PTC Inc.</a></h2>\n";
+print FWRITE "<div style=\"overflow-x:auto\;\">";
 print FWRITE "<table>\n";
 print FWRITE "  <tr>\n";
 print FWRITE "    <th style=\"color:red;\">Job Title (click to apply)</th>\n";
@@ -48,6 +49,7 @@ foreach $test_line (@auto_contents)
 $datetime = localtime();
 
 print FWRITE "</table>\n";
+print FWRITE "</div>\n";
 #print FWRITE "<br><h4>Last updated: $days[$wday], $mday $months[$mon] $year</h4>\n";
 print FWRITE "<br><h4>Last updated: $datetime</h4>\n";
 print FWRITE "</body>\n";
