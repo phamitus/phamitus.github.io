@@ -13,7 +13,7 @@ th {
   text-align: left;
   padding: 8px;
   text-decoration: bold;
-  background-color: black;
+  background-color: #4d2e00;
   color: white
 }
 
@@ -25,7 +25,7 @@ td {
 }
 
 tr:nth-child(even) {
-  background-color: gold;
+  background-color: #ffd699;
 }
 
 a:link {
