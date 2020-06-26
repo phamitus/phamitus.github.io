@@ -18,7 +18,7 @@ print FWRITE "<h2>List of currently open job positions at <a href=\"https:\/\/ww
 print FWRITE "<div style=\"overflow-x:auto\;\">";
 print FWRITE "<table>\n";
 print FWRITE "  <tr>\n";
-print FWRITE "    <th style=\"color:red;\">Job Title (click to apply)</th>\n";
+print FWRITE "    <th style=\"color:red;\">Job Title (click to check job description & APPLY)</th>\n";
 print FWRITE "    <th>Experience</th>\n";
 print FWRITE "    <th>Job Location</th>\n";
 print FWRITE "  </tr>\n";
