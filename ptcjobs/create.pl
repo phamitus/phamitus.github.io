@@ -9,6 +9,7 @@ open FWRITE, ">index.html" or die "Could not open index.html to write";
 print FWRITE "<!DOCTYPE html>\n";
 print FWRITE "<html>\n";
 print FWRITE "<head>\n";
+print FWRITE "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">";
 print FWRITE "  <link rel=\"stylesheet\" href=\"styles.css\">\n";
 print FWRITE "  <title>List of currently open job positions at PTC Inc.</title>";
 print FWRITE "</head>\n";
