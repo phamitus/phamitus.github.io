@@ -15,10 +15,11 @@ print FWRITE "  <title>List of currently open job positions at PTC Inc.</title>"
 print FWRITE "</head>\n";
 print FWRITE "<body>\n";
 print FWRITE "<h2>List of currently open job positions at <a href=\"https:\/\/www.ptc.com\/\" target=\"_blank\">PTC Inc.</a></h2>\n";
+print FWRITE "<h3><i>Click 'Job Title' of each listing below to check job description & APPLY</i></h3>\n";
 print FWRITE "<div style=\"overflow-x:auto\;\">";
 print FWRITE "<table>\n";
 print FWRITE "  <tr>\n";
-print FWRITE "    <th>Job Title <i>(click to check job description & APPLY)</i></th>\n";
+print FWRITE "    <th>Job Title <i></i></th>\n";
 print FWRITE "    <th>Experience</th>\n";
 print FWRITE "    <th>Job Location</th>\n";
 print FWRITE "  </tr>\n";

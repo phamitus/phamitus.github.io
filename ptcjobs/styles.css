@@ -4,9 +4,14 @@ table {
   width: 50%;
 }
 
-h1,h2,h3,h4 {
+h1,h2,h4 {
   font-family: consolas, Times New Roman, arial, sans-serif;
 }	
+
+h3 {
+  font-family: consolas, Times New Roman, arial, sans-serif;
+  color: green;
+}
 
 th {
   border: 1px solid #dddddd;
@@ -14,7 +19,7 @@ th {
   padding: 8px;
   text-decoration: bold;
   background-color: #4d2e00;
-  color: white
+  color: white;
 }
 
 td {
