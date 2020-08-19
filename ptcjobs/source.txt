@@ -1,6 +1,9 @@
-Senior QA Specialist,3-7 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=070720002829&xid=28644544b8yuhN
-Inside Sales Account Executive,3-7 yrs,Bangalore,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=080720002087&xid=28644544b8yuhN
-Business Development Representative,3-6 yrs,Bangalore,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=080720002152&xid=28644544b8yuhN
-Cloud Infrastructure Engineer(linux & AWS),2-6 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=150520001640&xid=28644544b8yuhN
+Technical Product Manager,8-13 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=060820001162&xid=28644544b8yuhN
+PTC Cloud Service Ops & Quality, NOC Technician,1-3 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=060820002479&xid=28644544b8yuhN
+Sharepoint Developer,5-8 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=070820000579&xid=28644544b8yuhN
+Java Developer,5-8 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=120820001531&xid=28644544b8yuhN
+Senior QA Specialist,3-7 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=180820003314&xid=28644544b8yuhN
+Product Specialist (Technical Support Engineer),2-5 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=090620001586&xid=28644544b8yuhN
+Product Specialist,3-7 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=120620002440&xid=28644544b8yuhN
 Cloud Database Engineer,2-4 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=120520001789&xid=28644544b8yuhN
-Product Specialist (Technical Support Engineer - Day shift),3-7 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=150720000459&xid=28644544b8yuhN
+Cloud Infrastructure Engineer (linux & AWS),2-6 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=150520001640&xid=28644544b8yuhN
