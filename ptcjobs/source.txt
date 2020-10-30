@@ -1,14 +1,20 @@
-Senior QA Specialist,3-7 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=240920001661&xid=28644544b8yuhN
+RPA developer,3-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=291020001787&xid=28644544b8yuhN
+Senior Technical Project Manager,8-12 yrs,Delhi/NCR,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=141020001265&xid=28644544b8yuhN
+Web UI Developer,6-8 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=240920003590&xid=28644544b8yuhN
+Customer Success Manager,8-11 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=211020003928&xid=28644544b8yuhN
+Partner Enablement Manager,7-12 yrs,Bangalore,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=281020002827&xid=28644544b8yuhN
 ETL Developer,8-10 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=240920001323&xid=28644544b8yuhN
-DevOps Engineer - AWS,3-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=230920003333&xid=28644544b8yuhN
-Security Senior QA Specialist - 1,3-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=230920003189&xid=28644544b8yuhN
-Security Senior QA Specialist - 2,3-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=230920003062&xid=28644544b8yuhN
-PTC Cloud Strategic Accounts - Engineer,1-4 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=170920000687&xid=28644544b8yuhN
-Sharepoint Developer,5-8 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=070820000579&xid=28644544b8yuhN
-Senior IT Auditor,4-9 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=210920001643&xid=28644544b8yuhN
-Associate Technical Support Representative - Night Shift,0-1 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=100920003430&xid=28644544b8yuhN
-Java Developer,5-8 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=160920000752&xid=28644544b8yuhN
-PTC Cloud Incident Management Engineer / Senior,1-6 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=080920002486&xid=28644544b8yuhN
-PTC Cloud NOC Associate Engineer,0-2 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=080920002432&xid=28644544b8yuhN
-Cloud Infrastructure Engineer (linux & AWS),2-6 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=150520001640&xid=28644544b8yuhN
-Product Specialist (Technical Support Engineer),2-5 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=090620001586&xid=28644544b8yuhN
+Business Systems Specialist - Salesforce,2-4 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=281020002766&xid=28644544b8yuhN
+Information Security Analyst - SOC 1,3-6 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=271020005061&xid=28644544b8yuhN
+Information Security Analyst - SOC 2,3-6 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=261020000262&xid=28644544b8yuhN
+Java Technical Lead,6-10 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=271020001343&xid=28644544b8yuhN
+Senior Software Specialist,4-6 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=221020004658&xid=28644544b8yuhN
+Product Technology lead,5-8 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=221020002253&xid=28644544b8yuhN
+Product Specialist,3-5 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=221020001626&xid=28644544b8yuhN
+IT Storage Engineer,2-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=221020001043&xid=28644544b8yuhN
+Java Developer - PLM,3-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=191020004357&xid=28644544b8yuhN
+Software Developer,3-7 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=151020002062&xid=28644544b8yuhN
+Technical Support Representative,3-6 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=211020004012&xid=28644544b8yuhN
+Cloud Infrastructure Engineer- MS SQL DBA,2-5 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=191020000314&xid=28644544b8yuhN
+Software development Engineer,1-3 yrs,Gurgaon,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=011020000391&xid=28644544b8yuhN
+Senior Systems Analyst - Ad/adfs,3-5 yrs,Pune,https://ptc-software.referralrecruit.com/referral/jobapply?jobId=081020003679&xid=28644544b8yuhN
